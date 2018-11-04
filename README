@@ -1,7 +1,9 @@
 Kurt Higa
-kuhiga
-cmps-12b-2
-2-26-18
+
+
+In this project I implemented a Queue ADT in Java based on a linked list data structure. 
+I used a Queue ADT to simulate a set of jobs performed by a set of processors. There are
+more jobs than processors, so some jobs wait in a queue.
 
 Table of Contents
 
